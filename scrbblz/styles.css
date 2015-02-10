@@ -1,0 +1,16 @@
+body {
+  background-color: #fbedfe;
+}
+
+h1 {
+  text-align: center;
+  color: #414012;
+}
+
+.main {
+  width: 90%;
+  height: 300px;
+  margin: 40px auto;
+  background-color: #414012;
+  border: 5px solid darkkhaki;
+}
