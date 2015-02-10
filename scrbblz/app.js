@@ -1,5 +1,4 @@
 var app = require('app');
-var React = require('react/addons');
 var BrowserWindow = require('browser-window');
 
 require('crash-reporter').start();
