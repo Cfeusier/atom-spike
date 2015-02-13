@@ -6,10 +6,10 @@
     - open the Atom.app
     - open the app dropdown menu
     - select `install shell commands`
-4. cd into the `scrbblz` directory
+4. cd into the `spike` directory
 5. run `apm install .`
 6. run `grunt download-atom-shell`
-7. if on MacOSx, to run the app, `cd ..` (into project root)
-    - run `./atom_shell/Atom.app/Contents/MacOS/Atom scrbblz/`
+7. if on MacOSx, to run the app
+    - run `../atom_shell/Atom.app/Contents/MacOS/Atom .`
 
 Cheers
